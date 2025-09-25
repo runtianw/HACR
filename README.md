@@ -1,1 +1,2 @@
 # HACR
+we propose a novel Hierarchical Attention Compression Network (HACRNet). This method introduces a Spatial-Reduction Multi-Head Attention (SR-MSA) module that progressively reduces feature resolution, significantly lowering computational complexity and enhancing recognition efficiency. Additionally, the Cross-Layer Attention Selection Module (CLASM) dynamically integrates multi-level attention, focusing on the most discriminative regions, thus improving the model’s robustness in complex maritime conditions.
